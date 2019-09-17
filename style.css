@@ -139,8 +139,9 @@ x:-o-prefocus, hr:after {
 }
 
 #expertise{
-  margin-top: 50%;
+  padding-top: 100px;
 }
+
 }
 
 
@@ -376,3 +377,8 @@ h5{
     margin-left:300px;
   }
  }
+ @media screen and (max-width: 600px){
+  #expertise{
+    margin-top:40%;
+  }
+}
