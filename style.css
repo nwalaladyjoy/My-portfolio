@@ -130,7 +130,17 @@ x:-o-prefocus, hr:after {
     font-size: 20px;
 }
 
+.icons{
+  margin-left: 15px;
+}
 
+.icon{
+  margin-left:500px;
+}
+
+#expertise{
+  margin-top: 30%;
+}
 }
 
 
